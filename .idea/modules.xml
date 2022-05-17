@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AVLTrees/AVLTrees.iml" filepath="$PROJECT_DIR$/AVLTrees/AVLTrees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment7/Assignment7.iml" filepath="$PROJECT_DIR$/Assignment7/Assignment7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment8/Assignment8.iml" filepath="$PROJECT_DIR$/Assignment8/Assignment8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigOEfficency/BigOEfficency.iml" filepath="$PROJECT_DIR$/BigOEfficency/BigOEfficency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bubblesort/Bubblesort.iml" filepath="$PROJECT_DIR$/Bubblesort/Bubblesort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/C20ArrayLists/C20ArrayLists.iml" filepath="$PROJECT_DIR$/C20ArrayLists/C20ArrayLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DataStructures.iml" filepath="$PROJECT_DIR$/.idea/DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructuresC18/DataStructuresC18.iml" filepath="$PROJECT_DIR$/DataStructuresC18/DataStructuresC18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Graphs/Graphs.iml" filepath="$PROJECT_DIR$/Graphs/Graphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hash/Hash.iml" filepath="$PROJECT_DIR$/Hash/Hash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Queues/Queues.iml" filepath="$PROJECT_DIR$/Queues/Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StacksChap24/StacksChap24.iml" filepath="$PROJECT_DIR$/StacksChap24/StacksChap24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State Capital/State Capital.iml" filepath="$PROJECT_DIR$/State Capital/State Capital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeightedGraphs/WeightedGraphs.iml" filepath="$PROJECT_DIR$/WeightedGraphs/WeightedGraphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wild-A01-HelloWorld/Wild-A01-HelloWorld.iml" filepath="$PROJECT_DIR$/Wild-A01-HelloWorld/Wild-A01-HelloWorld.iml" />
+    </modules>
+  </component>
+</project>
